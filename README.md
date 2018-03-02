@@ -1,4 +1,4 @@
-# Machine Learning
+# Boston Housing Dataset - Machine Learning
 Here, we will be using Multiple Linear Regression from scikit-learn to predict Median house Prices for the boston housing dataset.
 This will also include Univariate and Bivariate analysis with visual plots using seaborn and matplotlib.
 
